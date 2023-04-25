@@ -1,4 +1,4 @@
-This is the `serverless` framework deployment code of the VTA coding challenge. The code for the coding challenge can be found here: https://github.com/maticstric/vta-coding-challenge-serverless
+This is the `serverless` framework deployment code of the VTA coding challenge. The code for the coding challenge can be found here: https://github.com/maticstric/vta-coding-challenge
 
 Below is the default README.md for the `serverless` framework which explains how to run it. Note that without my AWS keys you won't be able to edit the real endpoint, which is intentional. This code is just provided as proof of me having completed the serverless deployment.
 
